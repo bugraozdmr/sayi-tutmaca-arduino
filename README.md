@@ -2,5 +2,5 @@
 
 gerekli elemanlar :
 
-->Nokia LCD5110
+->Nokia LCD5110\n
 ->potansiyometre
